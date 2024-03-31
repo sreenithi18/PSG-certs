@@ -1,0 +1,42 @@
+/* Style for the container */
+.container {
+    max-width: 600px; /* Adjust as needed */
+    margin: 0 auto;
+    padding: 20px;
+
+  }
+  
+  /* Style for the title */
+  .title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style for input labels */
+  .label {
+    margin-bottom: 10px;
+  }
+  
+  /* Style for input fields */
+  .input-field {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Style for the button */
+  .button {
+    background-color: #007bff; /* Blue color */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Style for the button on hover */
+  .button:hover {
+    background-color: #0056b3; /* Darker shade of blue */
+  }
